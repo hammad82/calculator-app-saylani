@@ -1,0 +1,27 @@
+.main{
+    border: 3px solid lightcyan;
+    width: 50%;
+    margin: 0 auto;
+}
+.inpt{
+    width: 97%;
+    margin: 3px;
+    background-color: lightsteelblue;
+    margin-top: 5px;
+    height: auto;
+}
+.btn1{
+    width: 98%;
+    background-color: grey;
+    margin: 3px;
+}
+.btn2{
+    width: 23%;
+    background-color: grey;
+    margin: 3px;
+}
+.btnhalf{
+    width: 48%;
+    margin: 3px;
+    background-color: grey;
+}
